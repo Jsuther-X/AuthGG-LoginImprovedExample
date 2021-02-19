@@ -1,0 +1,9 @@
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\bin\Debug\Auth_GG - ImprovedLogin (CUI).exe.config
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\bin\Debug\Auth_GG - ImprovedLogin (CUI).exe
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\bin\Debug\Auth_GG - ImprovedLogin (CUI).pdb
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\bin\Debug\Colorful.Console.dll
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\obj\Debug\Auth_GG - ImprovedLogin (CUI).csprojAssemblyReference.cache
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\obj\Debug\Auth_GG - ImprovedLogin (CUI).csproj.CoreCompileInputs.cache
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\obj\Debug\Auth_GG - ImprovedLogin (CUI).csproj.CopyComplete
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\obj\Debug\Auth_GG - ImprovedLogin (CUI).exe
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin (CUI)\Auth_GG - ImprovedLogin (CUI)\obj\Debug\Auth_GG - ImprovedLogin (CUI).pdb

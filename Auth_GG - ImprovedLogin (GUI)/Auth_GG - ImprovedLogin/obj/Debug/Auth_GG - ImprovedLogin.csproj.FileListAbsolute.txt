@@ -1,0 +1,14 @@
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\bin\Debug\Auth_GG - ImprovedLogin.exe.config
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\bin\Debug\Auth_GG - ImprovedLogin.exe
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\bin\Debug\Auth_GG - ImprovedLogin.pdb
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\bin\Debug\PresentationFramework.dll
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\bin\Debug\Siticone.UI.dll
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG - ImprovedLogin.csprojAssemblyReference.cache
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG___ImprovedLogin.Form1.resources
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG___ImprovedLogin.Form2.resources
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG___ImprovedLogin.Properties.Resources.resources
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG - ImprovedLogin.csproj.GenerateResource.cache
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG - ImprovedLogin.csproj.CoreCompileInputs.cache
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG - ImprovedLogin.csproj.CopyComplete
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG - ImprovedLogin.exe
+C:\Users\finnian\source\repos\Auth_GG - ImprovedLogin\Auth_GG - ImprovedLogin\obj\Debug\Auth_GG - ImprovedLogin.pdb
